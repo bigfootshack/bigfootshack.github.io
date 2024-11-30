@@ -1,1 +1,1 @@
-https://PlaySlopeGame.pages.dev
+https://PlaySlope.pages.dev
