@@ -1,0 +1,58 @@
+/* CSS for Article Content */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    margin: 10px 0;
+}
+
+#article-content {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Image Styles */
+.article-image {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
